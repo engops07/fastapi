@@ -50,5 +50,3 @@ pipeline {
         DEPLOY_ENV = "main"
     }
 }
-
-// main : build -> push -> prepareToDeploy -> deploytoecs
