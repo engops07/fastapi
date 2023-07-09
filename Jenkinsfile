@@ -50,3 +50,4 @@ pipeline {
         DEPLOY_ENV = "main"
     }
 }
+}
